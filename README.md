@@ -61,3 +61,19 @@ Certificado disponível em: **[Go e Gin: criando API rest com simplicidade][http
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```
+
+2. Instale as dependências:
+  ```bash
+  go mod tidy
+  ```
+
+3. Execute o Docker Compose para levantar o ambiente (banco de dados PostgreSQL):
+  ```bash
+  docker-compose up -d
+  ```
+
+4. Execute o projeto:
+  ```bash
+  go run main.go
+  ```
