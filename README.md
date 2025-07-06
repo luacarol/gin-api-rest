@@ -53,8 +53,7 @@ O objetivo principal foi implementar uma API Restful funcional e modular, utiliz
 ---
 
 > Curso ministrado por: [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-alura/)  
-Certificado disponível em: **[Go e Gin: criando API rest com simplicidade][https://cursos.alura.com.br/certificate/7c9b505f-7c3c-4cf3-9612-6fa31edbc50b?lang=pt_BR]** (adicione o link caso tenha o certificado digital).
-
+Certificado disponível em: **[Go e Gin: criando API rest com simplicidade][https://cursos.alura.com.br/certificate/7c9b505f-7c3c-4cf3-9612-6fa31edbc50b?lang=pt_BR]**
 ---
 
 ## 📂 Como Usar o Projeto?
