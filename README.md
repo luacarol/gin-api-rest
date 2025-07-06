@@ -59,9 +59,9 @@ Certificado disponível em: **[Go e Gin: criando API rest com simplicidade][http
 ## 📂 Como Usar o Projeto?
 
 1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
+  ```bash
+  git clone https://github.com/seu-usuario/nome-do-repositorio.git
+  ```
 
 2. Instale as dependências:
   ```bash
